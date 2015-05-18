@@ -1,2 +1,2 @@
 # java-tricks
-Some subtle java tricks
+Personal accumulation of some subtle java tricks
